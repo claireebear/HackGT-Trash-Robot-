@@ -1,0 +1,5 @@
+opencv-python
+pupil-apriltags
+numpy
+pyserial
+ultralytics
